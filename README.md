@@ -2,11 +2,8 @@
 
 **Dev + Segurança — full-stack de infraestrutura.** Construo software seguro self-hosted e endureço sistemas Windows, Linux e macOS.
 
-Técnico de campo de TI e desenvolvedor (CCR Telecom) — Jundiaí/SP, Brasil.
+Técnico de campo de TI e desenvolvedor - Jundiaí/SP, Brasil.
 
-Meu diferencial não é só entregar código: é entregar com segurança e ética embutidas desde o design, com prova — testes, VM real e decisões de engenharia documentadas.
-
----
 
 ## 🚀 Projetos em destaque
 
