@@ -54,4 +54,5 @@ Conversor de documentos para Markdown: versão **web** (Flask) e app **Android**
 ## 📫 Contato
 
 - **E-mail:** fratelli.morettiinformatica@gmail.com
+- **LinkedIn:** [eduardo-moretti](https://www.linkedin.com/in/eduardo-moretti-75a815239)
 
