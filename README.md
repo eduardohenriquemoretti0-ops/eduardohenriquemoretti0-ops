@@ -10,7 +10,7 @@ Meu diferencial não é só entregar código: é entregar com segurança e étic
 
 ## 🚀 Projetos em destaque
 
-### [fm-rmm](https://github.com/eduardohenriquemoretti0-ops/fm-rmm) — carro-chefe
+### [fm-rmm](https://github.com/eduardohenriquemoretti0-ops/fm-rmm)
 RMM + acesso remoto autorizado **self-hosted** para parques Windows/Linux/macOS, projetado para resistir a um servidor comprometido.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
@@ -54,18 +54,7 @@ Conversor de documentos para Markdown: versão **web** (Flask) e app **Android**
 
 ---
 
-## 🔒 Julgamento técnico, não só features
-
-No briefing do fm-rmm me pediram uma **"captura oculta"** de tela. Recusei e documentei o porquê:
-
-- É, na prática, capacidade de **RAT** — frágil perante a **LGPD** e marcada por qualquer EDR sério.
-- Acesso remoto legítimo exige **transparência**: por isso o indicador de sessão é sempre visível e *fail-closed*.
-
-Segurança boa é também saber o que **não** construir.
-
----
-
 ## 📫 Contato
 
 - **E-mail:** fratelli.morettiinformatica@gmail.com
-- **LinkedIn:** *(em breve)*
+
